@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:OrgMode
+PRODID:-//cary//Emacs with Org mode//EN
+X-WR-TIMEZONE:CST
+X-WR-CALDESC:
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20250623T130317Z
+UID:SC-88864B20-B0A9-4B7D-86D4-5E3CE9DEB037
+DTSTART:20250617T221900
+DTEND:20250618T001900
+SUMMARY:S: Task: one minute summary about the video
+CATEGORIES:daily
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-3BE1AE7D-7AB4-42FC-8F97-58877DD87048
+DTSTAMP:20250623T130317Z
+SUMMARY:Youtube comment lyric - 怪物(YOASOBI)
+DESCRIPTION:1. この疾走感と音源がたまらなく好き\n2. 遂に4.1億再生…もっと伸びるよ！！怪物のごとく！\n3. この曲聞いた瞬間 
+ ゾワっていう鳥肌きた… 普段鳥肌にならない体質だけど、\n   この不思議な世界観に興奮した\n4. 本当の僕は何者なんだ　教えてくれよの歌詞とレゴ
+ シが合い過ぎて泣いた\n5. 歌詞にはないけど、何度も差し込まれてる「あぁ」ってのが本能との葛藤\n   みたい。すごい好き。(語彙力)\n6. ビ
+ ースターズ読んだ人なら分かるけどガチで歌詞とピッタリ合っとって鳥\n   肌立つわ\n7. BEASTARS見てる人は内容とすごい合っていて、かつめ
+ ちゃめちゃかっこよ\n   く主人公の思いが表現されてて感動するし\n8. 見てない人は見てない人で自分の人生と重ねて刺さる歌詞がいっぱいある\n 
+   からこの曲はすごいと思う\n9. どの曲もそうだけど、yoasobiの転調まじで好き\n10. 歌詞の「気が触れそうだ」「正気の沙汰じゃないな」
+ の言い回しがそのま\n    んまレゴシで震えた\n11. この曲の中毒性ヤバいな。何回聞いても全然飽きる気がしないんだが。
+CATEGORIES:daily
+SEQUENCE:1
+PRIORITY:5
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20250623T130317Z
+UID:TS1-70A97741-3479-4039-8239-4D089EE02901
+DTSTART:20250622T232000
+DTEND:20250622T235000
+SUMMARY:Meeting at location with multi-line address
+LOCATION:Someplace\nSome Street 5\n12345 Small Town
+DESCRIPTION:<2025-06-22 Sun 23:20-23:50>
+CATEGORIES:refile
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-E0B8427F-F3DD-4D19-8FA1-45DB3B7B5B39
+DTSTAMP:20250623T130317Z
+SUMMARY:周会 - （当你失眠时你会怎么做？）
+DESCRIPTION:我没有经常失眠的情况，但是当我失眠的时候，我会想一个复杂的问题，从头\n开始想，比如某个bug解决不了，然后运气好的话因为太复
+ 杂了没有思路，想到\n一半就睡着了，但是运气不好有思路了就会越想越兴奋。还有一个办法就是，关\n灯躺着看一些文章，然后看一会就会眼皮非常的重就非常的
+ 想睡觉。当前上述都\n是压力没怎么大的时候，压力大的时候，失眠，我就会起来尽量将问题解决了，\n然后自然就能睡着了。\n\n  I don’t of
+ ten have trouble sleeping\, but when I do\, I usually start\nthinking abou
+ t a complex problem\, like a bug I can’t fix. If I’m\nlucky\, I get so los
+ t in the complexity that I fall asleep halfway\nthrough. If not\, I get ex
+ cited about potential solutions.\n\nAlternatively\, I lie in bed with the 
+ lights off and read articles\nuntil my eyelids feel heavy and I want to sl
+ eep.\n\nThis happens when I’m not stressed. When I am stressed and can’t\n
+ sleep\, I get up to solve the problem\, and then I can sleep naturally\naf
+ terward.  [2025-06-11 Wed]
+CATEGORIES:refile
+SEQUENCE:1
+PRIORITY:5
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VEVENT
+DTSTAMP:20250623T130317Z
+UID:TS1-BF9E764B-7015-4E93-8622-BD94AAAFB322
+DTSTART:20250622T232000
+DTEND:20250622T235000
+SUMMARY:Meeting at location with multi-line address
+LOCATION:Someplace\nSome Street 5\n12345 Small Town
+DESCRIPTION:<2025-06-22 Sun 23:20-23:50>
+CATEGORIES:test
+END:VEVENT
+BEGIN:VTODO
+UID:TODO-12E3AB6F-4732-45A3-9B6E-89DEBF92FC8C
+DTSTAMP:20250623T130317Z
+SUMMARY:Repeat this task
+CATEGORIES:test
+SEQUENCE:1
+PRIORITY:5
+STATUS:NEEDS-ACTION
+END:VTODO
+END:VCALENDAR

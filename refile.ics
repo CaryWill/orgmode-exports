@@ -6,8 +6,8 @@ X-WR-TIMEZONE:CST
 X-WR-CALDESC:
 CALSCALE:GREGORIAN
 BEGIN:VTODO
-UID:TODO-D809A0F5-6F2B-4416-AD05-7926E26DEC67
-DTSTAMP:20250625T074302Z
+UID:TODO-69B987C9-1040-4500-94C6-B0F74B3BB4EB
+DTSTAMP:20250625T074403Z
 SUMMARY:Youtube comment lyric - 怪物(YOASOBI)
 DESCRIPTION:1. この疾走感と音源がたまらなく好き\n2. 遂に4.1億再生…もっと伸びるよ！！怪物のごとく！\n3. この曲聞いた瞬間 
  ゾワっていう鳥肌きた… 普段鳥肌にならない体質だけど、\n   この不思議な世界観に興奮した\n4. 本当の僕は何者なんだ　教えてくれよの歌詞とレゴ
@@ -22,8 +22,8 @@ PRIORITY:5
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20250625T074303Z
-UID:DL-A7CF22D0-86BF-4E4D-BEDC-16D6805788F8
+DTSTAMP:20250625T074403Z
+UID:DL-6076382D-6B3F-43C6-8346-FAD80E22DED1
 DTSTART:20250622T190400
 DTEND:20250622T210400
 SUMMARY:DL: migrate dotfile to lazyvim and make orgmode work
@@ -34,36 +34,20 @@ DESCRIPTION:DL: migrate dotfile to lazyvim and make orgmode work
 TRIGGER:-P0DT0H15M0S
 END:VALARM
 END:VEVENT
-BEGIN:VTODO
-UID:TODO-B36CDA5B-D265-456B-A7AE-F828B911CE25
-DTSTAMP:20250625T074303Z
-SUMMARY:周会 - （当你失眠时你会怎么做？）
-DESCRIPTION:我没有经常失眠的情况，但是当我失眠的时候，我会想一个复杂的问题，从头\n开始想，比如某个bug解决不了，然后运气好的话因为太复
- 杂了没有思路，想到\n一半就睡着了，但是运气不好有思路了就会越想越兴奋。还有一个办法就是，关\n灯躺着看一些文章，然后看一会就会眼皮非常的重就非常的
- 想睡觉。当前上述都\n是压力没怎么大的时候，压力大的时候，失眠，我就会起来尽量将问题解决了，\n然后自然就能睡着了。\n\n  I don’t of
- ten have trouble sleeping\, but when I do\, I usually start\nthinking abou
- t a complex problem\, like a bug I can’t fix. If I’m\nlucky\, I get so los
- t in the complexity that I fall asleep halfway\nthrough. If not\, I get ex
- cited about potential solutions.\n\nAlternatively\, I lie in bed with the 
- lights off and read articles\nuntil my eyelids feel heavy and I want to sl
- eep.\n\nThis happens when I’m not stressed. When I am stressed and can’t\n
- sleep\, I get up to solve the problem\, and then I can sleep naturally\naf
- terward.  [2025-06-11 Wed]
-CATEGORIES:refile
-SEQUENCE:1
-PRIORITY:5
-STATUS:NEEDS-ACTION
-END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20250625T074303Z
-UID:TS1-81EC8F35-3491-41E8-8F46-4D9D2D058C1E
+DTSTAMP:20250625T074403Z
+UID:TS1-57651D9E-DDD3-4312-88C4-09B572365F71
 DTSTART:20250625T093800
 DTEND:20250625T113800
 SUMMARY:英语周会-主题-你最害怕的东西（可实、可虚）
 DESCRIPTION:Things I am afriad of is walking alone in a dark street or a ho
  use\, i\ncan't image i live in a 300m^2 house with no one in the house\, i
  t's so\nscary.\n\nThat means\, ghost\, darkness are the things I am afriad
-  the most.\nDEADLINE: <2025-06-25 Wed 09:38>
+  the most.\n\n— ai modified version I get really scared walking alone down
+  a dark\nstreet or being in an empty house.  I honestly can’t imagine livi
+ ng in\na huge house like 300 square meters all by myself—it’d freak me out
+ .\n\nYeah\, ghosts and the dark are pretty much what freak me out the most
+ .\nDEADLINE: <2025-06-25 Wed 09:38>
 CATEGORIES:refile
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -72,21 +56,8 @@ TRIGGER:-P0DT0H15M0S
 END:VALARM
 END:VEVENT
 BEGIN:VTODO
-UID:TODO-81EC8F35-3491-41E8-8F46-4D9D2D058C1E
-DTSTAMP:20250625T074303Z
-SUMMARY:英语周会-主题-你最害怕的东西（可实、可虚）
-DESCRIPTION:Things I am afriad of is walking alone in a dark street or a ho
- use\, i\ncan't image i live in a 300m^2 house with no one in the house\, i
- t's so\nscary.\n\nThat means\, ghost\, darkness are the things I am afriad
-  the most.\nDEADLINE: <2025-06-25 Wed 09:38>
-CATEGORIES:refile
-SEQUENCE:1
-PRIORITY:5
-STATUS:NEEDS-ACTION
-END:VTODO
-BEGIN:VTODO
-UID:TODO-FA47747A-ADEA-4D19-B76D-1FBF63CF6317
-DTSTAMP:20250625T074303Z
+UID:TODO-6CD10E43-F6D7-4635-A493-8E169A185A32
+DTSTAMP:20250625T074403Z
 SUMMARY:
 CATEGORIES:refile
 SEQUENCE:1
@@ -94,8 +65,8 @@ PRIORITY:5
 STATUS:NEEDS-ACTION
 END:VTODO
 BEGIN:VEVENT
-DTSTAMP:20250625T074303Z
-UID:TS1-BEBF0D60-C742-444C-97D4-91E32306E080
+DTSTAMP:20250625T074403Z
+UID:TS1-4015201B-F622-450B-943D-A80B6BCA649F
 DTSTART:20250625T112400
 DTEND:20250625T132400
 SUMMARY:read Setting Content-Type for multipart/form-data values
@@ -109,8 +80,8 @@ TRIGGER:-P0DT0H15M0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250625T074303Z
-UID:DL-0A5A9595-5A5D-4147-8C0D-EF2F92898BC7
+DTSTAMP:20250625T074403Z
+UID:DL-82C03E68-3BA7-4B2D-BC8E-A7E171C5C55E
 DTSTART:20250623T232000
 DTEND:20250624T012000
 SUMMARY:DL: Tested orgmode ical sync 4
@@ -122,8 +93,8 @@ TRIGGER:-P0DT0H15M0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250625T074303Z
-UID:TS1-A78456D7-B70A-46C6-9A4C-C14DCD5037E6
+DTSTAMP:20250625T074403Z
+UID:TS1-5AD18482-E31A-4C48-A211-43115D81BC65
 DTSTART:20250622T232000
 DTEND:20250622T235000
 SUMMARY:Meeting at location with multi-line address
